@@ -1,0 +1,59 @@
+Port 80 is already in use
+Port 80 is already in use
+Port 80 is already in use
+Port 80 is already in use
+Port 80 is already in use
+
+> blogger2@0.0.0 start /home/bitnami/blogger2
+> node ./bin/www
+
+[0mGET / [36m304 [0m11.158 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.413 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m4.944 ms - 923[0m
+[0mGET /js/jquery.min.js [33m404 [0m5.642 ms - 923[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.462 ms - -[0m
+[0mGET /js/bootstrap.min.js [36m304 [0m0.373 ms - -[0m
+
+> blogger2@0.0.0 start /home/bitnami/blogger2
+> node ./bin/www
+
+[0mGET / [36m304 [0m11.063 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m2.680 ms - 923[0m
+[0mGET /js/jquery.min.js [33m404 [0m1.129 ms - 923[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.137 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.433 ms - -[0m
+[0mGET /js/bootstrap.min.js [36m304 [0m0.353 ms - -[0m
+[0mGET / [36m304 [0m1.508 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m1.225 ms - 923[0m
+[0mGET /js/jquery.min.js [33m404 [0m0.914 ms - 923[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.440 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.373 ms - -[0m
+[0mGET /js/bootstrap.min.js [36m304 [0m0.404 ms - -[0m
+[0mGET /blogList [32m200 [0m1.203 ms - 729[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.340 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m1.974 ms - 923[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m1.241 ms - -[0m
+[0mGET /blogAdd [36m304 [0m0.976 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.349 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m1.619 ms - 923[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.401 ms - -[0m
+[0mGET / [36m304 [0m0.701 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m1.460 ms - 923[0m
+[0mGET /js/jquery.min.js [33m404 [0m1.809 ms - 923[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.436 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.621 ms - -[0m
+[0mGET /js/bootstrap.min.js [36m304 [0m0.386 ms - -[0m
+[0mGET /blogList [36m304 [0m0.853 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m0.973 ms - 923[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.234 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.422 ms - -[0m
+[0mGET /blogAdd [36m304 [0m0.908 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m0.970 ms - 923[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.228 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.400 ms - -[0m
+[0mGET / [36m304 [0m0.707 ms - -[0m
+[0mGET /css/fontawesome-all.css [33m404 [0m1.414 ms - 923[0m
+[0mGET /js/jquery.min.js [33m404 [0m1.782 ms - 923[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.223 ms - -[0m
+[0mGET /css/bootstrap.min.css [36m304 [0m0.379 ms - -[0m
+[0mGET /js/bootstrap.min.js [36m304 [0m0.369 ms - -[0m
