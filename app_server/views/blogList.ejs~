@@ -1,0 +1,42 @@
+<html>
+  <head>
+    <title>Blog List</title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/fontawesome-all.css">
+  </head>
+  <body>
+    <div class="container">
+      <nav class="navbar fixed-top navbar-expand-sm navbar-dark bg-primary">
+    <a class="navbar-brand" href="/">My Blog</a>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+        <a class="nav-item nav-link active" href="/blogList">List Blogs</a>
+        <a class="nav-item nav-link active" href="/blogAdd">Add Blog</a>
+        </div>
+    </div>
+      </nav>
+	<h1>List of Blogs<h1>
+	    <ul>
+
+	      <% blogs.forEach(function (curBlog){ %>
+	      <li><h6> <%= curBlog.title %> </h6></li>
+	      <%= curBlog.blogText %>
+	      <p><small><%= curBlog.timestamp %></small></p>
+	      <i class="nav-item">
+	      <a class="nav-item" href="/blogEdit">
+              <i class="fas fa-user-edit"> 
+              </i>
+             </a>
+            </li>
+          <a class="fas fa-ban" href="/blogDelete"></a>
+        <p></p> 
+	<%  })  %>
+
+	
+       </ul>       
+     </div>
+    </body>
+  <script src="/bootstrap/js/jquery.min.js"></script>
+  <script src="/bootstrap/js/bootstrap.min.js"></script>
+</html>
