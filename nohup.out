@@ -445,3 +445,494 @@ Mongoose connected to mongodb://localhost/blogger
 [0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.665 ms - -[0m
 [0mGET /javascripts/validation.js [33m404 [0m20.378 ms - 2292[0m
 [0mGET /javascripts/validation.js [33m404 [0m15.205 ms - 2292[0m
+[0mGET /blogAdd [33m404 [0m9.609 ms - 2292[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m17.266 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.555 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.700 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.673 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.635 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.186 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m14.648 ms - 2292[0m
+[0mGET /blogList [36m304 [0m28.432 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m8.468 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.673 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.654 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.525 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.509 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m16.782 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.637 ms - 2292[0m
+[0mGET /blogAdd [33m404 [0m9.899 ms - 2292[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m12.087 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.551 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.849 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.853 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.851 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m11.176 ms - 2292[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.896 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m14.052 ms - 2292[0m
+[0mGET /blogAdd [33m404 [0m9.564 ms - 2292[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.211 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.251 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.213 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.360 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.204 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m11.660 ms - 2292[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.969 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.999 ms - 2292[0m
+[0mGET / [36m304 [0m9.634 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m8.433 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.997 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.989 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.964 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.941 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.633 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.539 ms - 2292[0m
+[0mGET /blogAdd [33m404 [0m8.132 ms - 2292[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m10.594 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.111 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.081 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.051 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.017 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.669 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m12.776 ms - 2292[0m
+[0mGET /blogList [36m304 [0m12.452 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m7.808 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.899 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.890 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.847 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.831 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.469 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.232 ms - 2292[0m
+[0mGET / [36m304 [0m7.940 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.470 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.046 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.015 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.006 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.964 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.964 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.678 ms - 2292[0m
+Mongoose connected to mongodb://localhost/blogger
+[0mGET / [36m304 [0m300.862 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m30.402 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m31.785 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.215 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.155 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.151 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m23.736 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m23.737 ms - 2292[0m
+[0mGET /blogAdd [32m200 [0m25.951 ms - 1830[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m26.201 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.388 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.283 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.255 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.269 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m17.412 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m25.304 ms - 2292[0m
+[0mGET /blogList [36m304 [0m37.141 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m20.853 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.531 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.840 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.859 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.880 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m29.488 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m18.707 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m33.202 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m14.710 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.277 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.279 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.277 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.221 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m15.227 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m26.057 ms - 2292[0m
+[0mGET /blogList [36m304 [0m42.811 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m14.590 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.205 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.222 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.210 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.217 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m19.616 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m11.948 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m17.234 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m14.938 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.137 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.146 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.147 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.155 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.308 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m15.718 ms - 2292[0m
+[0mGET /blogList [36m304 [0m41.461 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m23.551 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.320 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.396 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.485 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.465 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m28.436 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m16.600 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m27.142 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m17.582 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.079 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.135 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.192 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.241 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m15.265 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m26.734 ms - 2292[0m
+[0mGET /blogAdd [32m200 [0m22.456 ms - 1835[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m35.900 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.124 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.984 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.988 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.994 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m19.278 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m28.988 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m16.050 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m16.438 ms - 2292[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.002 ms - -[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m3.024 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m3.049 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.369 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m15.191 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m18.395 ms - 2292[0m
+[0mGET /blogList [36m304 [0m39.871 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m20.054 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.786 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.241 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.241 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.260 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m19.093 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m24.147 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m14.731 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m13.559 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.122 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.162 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.186 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.192 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m22.540 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m15.794 ms - 2292[0m
+[0mGET /home?Blog+Title=Does+the+Rest+API+work%3F&Blog+Text=I+suppose+I+will+find+out [33m404 [0m12.914 ms - 2292[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m16.573 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.424 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m2.214 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m2.191 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.440 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m11.232 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m15.252 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m19.276 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m20.025 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.568 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.958 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.878 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.820 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m22.386 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m13.077 ms - 2292[0m
+[0mGET /blogList [36m304 [0m40.865 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m12.588 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.155 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.162 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.122 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.108 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m32.470 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.668 ms - 2292[0m
+[0mGET /blogList [36m304 [0m29.722 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m19.739 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.573 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.922 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.896 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.872 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m12.491 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.555 ms - 2292[0m
+[0mGET /blogAdd [32m200 [0m13.279 ms - 1869[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m14.049 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m5.885 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.082 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.063 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.046 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m13.615 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m26.643 ms - 2292[0m
+[0mPOST /blogList [33m404 [0m24.107 ms - 2287[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.161 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.286 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.468 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.446 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.218 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.152 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m20.667 ms - 2292[0m
+[0mGET / [36m304 [0m15.204 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.523 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.240 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.201 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.247 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.226 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.400 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m16.776 ms - 2292[0m
+[0mGET /blogList [36m304 [0m22.389 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.751 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.928 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.707 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.523 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.438 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m23.070 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.685 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m14.873 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m13.727 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m13.808 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.199 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.944 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.926 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.450 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.363 ms - 2292[0m
+[0mGET /blogList [36m304 [0m14.598 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m7.837 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.243 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.882 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.877 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.836 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.376 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m13.590 ms - 2292[0m
+[0mGET / [36m304 [0m17.074 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m8.480 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.185 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.145 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.131 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.097 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.961 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.315 ms - 2292[0m
+[0mGET /blogList [36m304 [0m24.782 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m18.563 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.410 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.222 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.223 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.536 ms - 2292[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m10.277 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.638 ms - 2292[0m
+[0mGET / [36m304 [0m8.465 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m17.924 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.116 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.115 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.100 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.088 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.635 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.123 ms - 2292[0m
+[0mGET / [36m304 [0m14.340 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m8.397 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.235 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.230 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.213 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.420 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.754 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m11.898 ms - 2292[0m
+[0mGET /blogList [36m304 [0m13.645 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m8.155 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.139 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.096 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.396 ms - 2292[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m8.468 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m8.475 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.317 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m9.018 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m14.186 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m5.994 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.015 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.018 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.012 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m12.730 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.597 ms - 2292[0m
+[0mPOST /blogList [33m404 [0m8.277 ms - 2287[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m7.362 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.040 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.019 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.149 ms - 2292[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m10.204 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m10.214 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.815 ms - 2292[0m
+Port 80 is already in use
+[0mGET / [36m304 [0m9.034 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.221 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m9.231 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.273 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.363 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.188 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m14.560 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m11.465 ms - 2292[0m
+[0mGET /blogList [36m304 [0m16.032 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m8.629 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.769 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.701 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.661 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.408 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.875 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.866 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m8.980 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m7.795 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.266 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.189 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.189 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.191 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m6.865 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.836 ms - 2292[0m
+[0mPOST /blogList [33m404 [0m11.801 ms - 2287[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m12.407 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.046 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.026 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.024 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.022 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.795 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.330 ms - 2292[0m
+[0mGET /blogList [36m304 [0m361.173 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m30.126 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m9.201 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m7.892 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m8.688 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m20.585 ms - 2292[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m16.981 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.276 ms - 2292[0m
+[0mGET / [36m304 [0m62.956 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m23.050 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.045 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.045 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.030 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.004 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.444 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.059 ms - 2292[0m
+[0mGET /blogList [36m304 [0m24.476 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m14.627 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.096 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.059 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.061 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m1.041 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.283 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.323 ms - 2292[0m
+[0mGET / [36m304 [0m17.129 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m26.993 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.734 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.085 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.983 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.989 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m20.110 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m11.511 ms - 2292[0m
+[0mGET /blogList [36m304 [0m22.116 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m9.862 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.228 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.766 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.239 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.257 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.919 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m13.175 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m21.341 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m11.831 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.987 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.972 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.985 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m12.835 ms - 2292[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m12.940 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m12.807 ms - 2292[0m
+[0mGET / [36m304 [0m16.704 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m6.986 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.234 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.185 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.177 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.183 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m10.144 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.273 ms - 2292[0m
+/home/bitnami/blogger/node_modules/express/lib/router/route.js:202
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.(anonymous function) [as get] (/home/bitnami/blogger/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.(anonymous function) [as get] (/home/bitnami/blogger/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/bitnami/blogger/app_server/routes/index.js:12:8)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/bitnami/blogger/app.js:11:19)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+[0mGET / [36m304 [0m10.320 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m8.596 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.242 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.206 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.207 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.301 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.144 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m8.977 ms - 2292[0m
+[0mGET /blogList [36m304 [0m12.940 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m7.979 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.028 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.991 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.004 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.992 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.664 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.703 ms - 2292[0m
+[0mGET /blogAdd [36m304 [0m10.221 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m10.551 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m1.033 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.022 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m1.000 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.980 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m9.076 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m18.054 ms - 2292[0m
+[0mPOST /blogList [33m404 [0m25.104 ms - 2287[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m7.611 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.995 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.986 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.982 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.970 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.546 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m7.463 ms - 2292[0m
+[0mGET / [36m304 [0m7.408 ms - -[0m
+[0mGET /public/stylesheets/style.processed.css [33m404 [0m6.652 ms - 2292[0m
+[0mGET /bootstrap/css/amelia.bootstrap.css [36m304 [0m0.843 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.847 ms - -[0m
+[0mGET /javascripts/jquery-1.11.1.min.js [36m304 [0m0.812 ms - -[0m
+[0mGET /bootstrap/js/bootstrap.min.js [36m304 [0m0.785 ms - -[0m
+[0mGET /javascripts/validation.js [33m404 [0m6.616 ms - 2292[0m
+[0mGET /javascripts/validation.js [33m404 [0m6.995 ms - 2292[0m
+/home/bitnami/blogger/node_modules/express/lib/router/route.js:202
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.(anonymous function) [as get] (/home/bitnami/blogger/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.(anonymous function) [as get] (/home/bitnami/blogger/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/bitnami/blogger/app_server/routes/index.js:12:8)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/bitnami/blogger/app.js:11:19)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+/home/bitnami/blogger/node_modules/express/lib/router/route.js:202
+        throw new Error(msg);
+        ^
+
+Error: Route.get() requires a callback function but got a [object Undefined]
+    at Route.(anonymous function) [as get] (/home/bitnami/blogger/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.(anonymous function) [as get] (/home/bitnami/blogger/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/bitnami/blogger/app_server/routes/index.js:12:8)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at Module.require (module.js:596:17)
+    at require (internal/module.js:11:18)
+    at Object.<anonymous> (/home/bitnami/blogger/app.js:11:19)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)

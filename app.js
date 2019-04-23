@@ -18,7 +18,7 @@ var app = express();
 app.set('port', process.env.PORT || 80);
 
 // view engine setup
-app.set('views', path.join(__dirname, 'app_server/views'));
+app.set('views', path.join(__dirname, 'app_server','views'));
 app.set('view engine', 'pug');
 
 //app.use(favicon(__dirname + '/public/favicon.ico'));

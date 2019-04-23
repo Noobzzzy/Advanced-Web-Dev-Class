@@ -12,7 +12,7 @@ var buildBlogList = function(req, res, results, stats) {
     blogs.push({
       title: doc.obj.title,
       blogText: doc.obj.blogText,
-      createdOn: doc.obj.createdOn,
+      timestamp: doc.obj.timestamp,
       _id: doc.obj._id
     });
   });
@@ -53,9 +53,9 @@ module.exports.blogsReadOne = function(req, res) {
 module.exports.blogsCreate = function(req, res) {
   console.log(req.body);
   Blog.create({
-    title: req.body.title,
-    blogText: req.body.blogTest,
-    createdOn: req.body.createdOn
+    title: req.body.blogTitle,
+    blogText: req.body.blogText,
+    timestamp: req.body.timestamp
   }, function(err, blog) {
     if (err) {
       console.log(err);
@@ -93,7 +93,7 @@ module.exports.blogsUpdateOne = function(req, res) {
 
         blog.title = req.body.title;
         blog.blogText = req.body.blogText;
-        blog.createdOn = req.body.createdOn;
+        blog.timestamp = req.body.timestamp;
 
         blog.save(function(err, blog) {
           if (err) {

@@ -1,0 +1,36 @@
+extends layout.pug
+
+block content
+  meta(style = {name:'viewport', content: {width: 'device-width'}, initialscale: '1'})
+
+  body(style ={font: 'Arial', background: '#f3e4a0', width: '500px'})
+    //input(
+    //type='text'
+    //name='blogTitle'
+    //background: #f1f1f1
+    // outline: none
+    //width: '7px'
+    //padding: 15px
+    //margin: '5px 0 22px 0'
+    //).focus
+
+    //h(style = {border: '1px solid #f1f1f1', margin: '15px'})
+
+    //.addBlogBtn(style = {background: '#0000ff',color: 'white',padding: '16px 10px',margin: '8px 0',border: 'none',cursor: 'pointer\',width: '200px',opacity: '0.9'})
+
+    .addBlogBtn(style = {opacity: '.8'}).hover
+
+    a(style = {color: 'dodgerblue'})
+
+    <form action="/home">
+      <div class="container">
+        <h1>Add Blog</h1>
+        <hr>
+        <label for="email"><b>Blog Title</b></label>
+        <input type="text" placeholder="Blog Title" name="Blog Title" required>
+        <label for="psw"><b>Blog Text</b></label>
+        <input type="text" placeholder="Blog Text" name="Blog Text" required>
+        <hr>
+        <button type="submit" class="addBlogBtn">Add Blog</button>
+      </div>
+    </form>

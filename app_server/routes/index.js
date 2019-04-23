@@ -10,8 +10,8 @@ router.get('/', function(req, res, next) {
 
 /*NEW: routes for my home and blog pages. */
 router.get('/', ctrlBlog.home);
-router.get('/blogList', ctrlBlog.blogList);
-//router.get('/blogAdd', ctrlBlog.blogAdd);
+router.get('/blogList', ctrlBlog.bloglist);
+router.get('/blogAdd', ctrlBlog.addBlog);
 //router.get('/blogEdit',ctrlBlog.blogEdit);
 //router.get('/blogDelete',ctrlBlog.blogDelete);
 
