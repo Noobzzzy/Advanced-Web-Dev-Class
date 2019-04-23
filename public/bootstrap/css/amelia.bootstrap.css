@@ -306,7 +306,7 @@ body {
   font-size: 14px;
   line-height: 1.428571429;
   color: #ffffff;
-  background-color: #108a93;
+  background-color: #f9e89a;
 }
 
 input,
@@ -362,7 +362,7 @@ img {
   max-width: 100%;
   padding: 4px;
   line-height: 1.428571429;
-  background-color: #108a93;
+  background-color: #931910;
   border: 1px solid #dddddd;
   border-radius: 4px;
   -webkit-transition: all 0.2s ease-in-out;
@@ -1524,7 +1524,7 @@ th {
 }
 
 .table .table {
-  background-color: #108a93;
+  background-color: #e4f698;
 }
 
 .table-condensed thead > tr > th,
@@ -4013,7 +4013,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .nav > li > a {
   position: relative;
   display: block;
-  padding: 10px 15px;
+  padding: 1px 2px;
 }
 
 .nav > li > a:hover,

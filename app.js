@@ -6,10 +6,10 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-require('./app_api/Models/db');
+require('./app_api/models/db');
 
 var indexRouter = require('./app_server/routes/index');
-var indexRouterApi = require('./app_api/Routes/index');
+var indexRouterApi = require('./app_api/routes/index');
 //var usersRouter = require('./app_server/routes/users');
 
 var app = express();

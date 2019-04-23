@@ -2,13 +2,13 @@ extends layout
 
 block content
 
-  h1(style = {color = blue}) List of Blogs
+  h1(style = {color: 'black', font: '55px ubuntu'}) List of Blogs
 
     .row.list-group
       each blog in blogs
         .col-xs-12.list-group-item
-          h3 blog.title
-          p1 blog.text
-          p4 blog.timestamp
+          h3(style = {color: 'black', font: '35px ubuntu'})  #{blog.title}
+          p(style = {color: 'black', font: '25px ubuntu'}) #{blog.text}
+          p(style = {color: 'black', font: '15px ubuntu'}) #{blog.timestamp}
 
 
